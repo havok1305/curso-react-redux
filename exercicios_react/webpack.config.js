@@ -11,6 +11,9 @@ module.exports = {
     host: '127.0.0.1',
     contentBase: './public',
   },
+  resolve: {
+    extensions: ['', '.js', '.jsx']
+  },
   module: {
     loaders: [{
       test: /.jsx?$/,
