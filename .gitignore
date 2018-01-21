@@ -1,5 +1,7 @@
 /exercicios_webpack/node_modules/
 /exercicios_react/node_modules/
+/todo_app/backend/node_modules/
+/todo_app/frontend/node_modules/
 .vscode/
 *.log
 .idea/
